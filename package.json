@@ -1,7 +1,7 @@
 {
-  "name": "az-agriculture",
+  "name": "agriculture-nepal",
   "version": "0.0.0",
-  "description": "GUI tool to help support local agriculture in Arizona (US).",
+  "description": "GUI tool to help support local agriculture in nepal.",
   "main": "server.js",
   "dependencies": {
     "csvtojson": "^0.3.11",
@@ -15,16 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azgs/az-agriculture.git"
+    "url": "https://github.com/neetimsina/agriculture-nepal.git"
   },
-  "owner": "Arizona Geological Survey",
-  "authors": [
-    "Jessica Good Alisdairi",
-    "Adrian Sonnenschein"
-  ],
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/azgs/az-agriculture/issues"
-  },
-  "homepage": "https://github.com/azgs/az-agriculture"
 }
